@@ -1,0 +1,1 @@
+## Smooth Scrolling with Locomotive Scroll & GSAP ScrollTrigger Integration – Step-by-Step Setup ✅
